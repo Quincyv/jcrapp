@@ -17,4 +17,5 @@ COPY . /usr/src/app/
 EXPOSE 80
 
 # Start the application
-CMD ["node", "app.js"]
+CMD ["node", "jcr.js"]
+
